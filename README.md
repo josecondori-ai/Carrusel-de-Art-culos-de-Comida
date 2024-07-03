@@ -31,7 +31,7 @@ Este proyecto presenta un carrusel de artículos de comida y bebida, mostrando d
 
 ## Demo del Proyecto
 Puedes ver una demo en vivo del proyecto en el siguiente enlace:
-[Demo del Carrusel de Artículos de Comida](https://tu-enlace-de-demo.com)
+[Demo del Carrusel de Artículos de Comida](https://josecondori-ai.github.io/Carrusel-de-Art-culos-de-Comida/)
 
 ## Cómo Utilizar el Carrusel
 - Utiliza las flechas de navegación a la izquierda y derecha para cambiar entre las diapositivas.
