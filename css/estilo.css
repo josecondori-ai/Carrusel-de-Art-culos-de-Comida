@@ -131,14 +131,14 @@ body {
 }
 
 .carrusel-item--1 .carrusel-item__imagen{
-  background-image: url('/img/pizza.jpg');
+  background-image: url('https://raw.githubusercontent.com/josecondori-ai/Carrusel-de-Art-culos-de-Comida/main/img/pizza.jpg');
     background-position: -60px 0px;
 
 }
 
 
 .carrusel-item--2 .carrusel-item__imagen{
-  background-image: url('/img/sushi.jpg');
+  background-image: url('https://raw.githubusercontent.com/josecondori-ai/Carrusel-de-Art-culos-de-Comida/main/img/sushi.jpg');
 }
 
 .carrusel-item--3 .carrusel-item__imagen{
@@ -148,7 +148,7 @@ body {
 }
 
 .carrusel-item--4 .carrusel-item__imagen{
-  background-image: url('/img/ensalada.jpg');
+  background-image: url('https://raw.githubusercontent.com/josecondori-ai/Carrusel-de-Art-culos-de-Comida/main/img/ensalada.jpg');
 }
 
 .carrusel-item--5 .carrusel-item__imagen{
