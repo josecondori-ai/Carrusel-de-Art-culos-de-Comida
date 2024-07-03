@@ -132,6 +132,8 @@ body {
 
 .carrusel-item--1 .carrusel-item__imagen{
   background-image: url('/img/pizza.jpg');
+    background-position: -60px 0px;
+
 }
 
 
@@ -141,6 +143,8 @@ body {
 
 .carrusel-item--3 .carrusel-item__imagen{
   background-image: url('https://raw.githubusercontent.com/josecondori-ai/Carrusel-de-Art-culos-de-Comida/main/img/cafe.jpg');
+    background-position: -60px 0px;
+
 }
 
 .carrusel-item--4 .carrusel-item__imagen{
@@ -149,6 +153,8 @@ body {
 
 .carrusel-item--5 .carrusel-item__imagen{
   background-image: url('/img/tiramisu.jpg');
+    background-position: -60px 0px;
+
 }
 
 
