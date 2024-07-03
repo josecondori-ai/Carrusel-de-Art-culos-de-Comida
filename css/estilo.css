@@ -152,7 +152,7 @@ body {
 }
 
 .carrusel-item--5 .carrusel-item__imagen{
-  background-image: url('/img/tiramisu.jpg');
+  background-image: url('https://raw.githubusercontent.com/josecondori-ai/Carrusel-de-Art-culos-de-Comida/main/img/tiramisu.jpg');
     background-position: -60px 0px;
 
 }
